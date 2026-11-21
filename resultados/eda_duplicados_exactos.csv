@@ -1,0 +1,69 @@
+﻿grupo,path,carpeta,clase,md5
+0,data/Split_smol/train/Atopic Dermatitis/1_14.jpg,train,Atopic Dermatitis,04ee99c7e4988cb71413c868d215fbe0
+0,data/Split_smol/val/Atopic Dermatitis/1_14.jpg,val,Atopic Dermatitis,04ee99c7e4988cb71413c868d215fbe0
+1,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_nejmicm1013871_f1.jpeg,train,Tinea Ringworm Candidiasis,05498cf534079c0d1450ac689d37a295
+1,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_nejmicm1013871_f1.jpeg,val,Tinea Ringworm Candidiasis,05498cf534079c0d1450ac689d37a295
+2,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_gWKFl81gOGebKIRUWg13lgp-O7X7GXiX1IOOqXBw-f2w.jpg,train,Tinea Ringworm Candidiasis,05f3095d7126956d3868806388c60f27
+2,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_gWKFl81gOGebKIRUWg13lgp-O7X7GXiX1IOOqXBw-f2w.jpg,val,Tinea Ringworm Candidiasis,05f3095d7126956d3868806388c60f27
+3,data/Split_smol/train/Atopic Dermatitis/1_15.jpg,train,Atopic Dermatitis,10a63d3a2c23f91ee6a929e28b4c50ae
+3,data/Split_smol/val/Atopic Dermatitis/1_15.jpg,val,Atopic Dermatitis,10a63d3a2c23f91ee6a929e28b4c50ae
+4,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_IJD-62-227-g006.jpg,train,Tinea Ringworm Candidiasis,1dd7712db07797a0ab5b1d244fb2b717
+4,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_IJD-62-227-g006.jpg,val,Tinea Ringworm Candidiasis,1dd7712db07797a0ab5b1d244fb2b717
+5,data/Split_smol/train/Atopic Dermatitis/1_35.jpg,train,Atopic Dermatitis,236502bee01bdb65d21a1b2f18cf2513
+5,data/Split_smol/val/Atopic Dermatitis/1_35.jpg,val,Atopic Dermatitis,236502bee01bdb65d21a1b2f18cf2513
+6,data/Split_smol/train/Atopic Dermatitis/1_25.jpg,train,Atopic Dermatitis,24a6aaec61bf9d24a9e5b345c522cf86
+6,data/Split_smol/val/Atopic Dermatitis/1_25.jpg,val,Atopic Dermatitis,24a6aaec61bf9d24a9e5b345c522cf86
+7,data/Split_smol/train/Atopic Dermatitis/1_29.jpg,train,Atopic Dermatitis,2ca80cc07f77ed10eda18eadc8b3b96e
+7,data/Split_smol/val/Atopic Dermatitis/1_29.jpg,val,Atopic Dermatitis,2ca80cc07f77ed10eda18eadc8b3b96e
+8,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Direct-microscopic-examination-revealed-endothrix-infection-with-chains-of-conidia-in-and_Q320.jpg,train,Tinea Ringworm Candidiasis,2cfec9a1e058bb855c5e93077ede802b
+8,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_Direct-microscopic-examination-revealed-endothrix-infection-with-chains-of-conidia-in-and_Q320.jpg,val,Tinea Ringworm Candidiasis,2cfec9a1e058bb855c5e93077ede802b
+9,data/Split_smol/train/Atopic Dermatitis/1_36.jpg,train,Atopic Dermatitis,2f339580c09f4b963f52d19124d80e29
+9,data/Split_smol/val/Atopic Dermatitis/1_36.jpg,val,Atopic Dermatitis,2f339580c09f4b963f52d19124d80e29
+10,data/Split_smol/train/Atopic Dermatitis/1_49.jpg,train,Atopic Dermatitis,34006bf88d9fcb17bf25f7c44aec37fb
+10,data/Split_smol/train/Atopic Dermatitis/1_51.jpg,train,Atopic Dermatitis,34006bf88d9fcb17bf25f7c44aec37fb
+11,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_image.png,train,Tinea Ringworm Candidiasis,5cbf262f462bca373b891333bf3342d7
+11,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_image.png,val,Tinea Ringworm Candidiasis,5cbf262f462bca373b891333bf3342d7
+12,data/Split_smol/train/Atopic Dermatitis/1_44.jpg,train,Atopic Dermatitis,5cc2ba27b5feccea7c2239a93500ef73
+12,data/Split_smol/val/Atopic Dermatitis/1_44.jpg,val,Atopic Dermatitis,5cc2ba27b5feccea7c2239a93500ef73
+13,data/Split_smol/train/Atopic Dermatitis/1_20.jpg,train,Atopic Dermatitis,6544d89fbac5a064033408c1236746b7
+13,data/Split_smol/val/Atopic Dermatitis/1_20.jpg,val,Atopic Dermatitis,6544d89fbac5a064033408c1236746b7
+14,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_gr6.jpg,train,Tinea Ringworm Candidiasis,6e1b9593e17f38c3be56353958d166cf
+14,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_gr6.jpg,val,Tinea Ringworm Candidiasis,6e1b9593e17f38c3be56353958d166cf
+15,data/Split_smol/train/Atopic Dermatitis/1_24.jpg,train,Atopic Dermatitis,6e6b759f990f927245f0294494cc21d1
+15,data/Split_smol/val/Atopic Dermatitis/1_24.jpg,val,Atopic Dermatitis,6e6b759f990f927245f0294494cc21d1
+16,data/Split_smol/train/Atopic Dermatitis/1_27.jpg,train,Atopic Dermatitis,7e9b2e82712de1b96472fbffa5a40c28
+16,data/Split_smol/val/Atopic Dermatitis/1_27.jpg,val,Atopic Dermatitis,7e9b2e82712de1b96472fbffa5a40c28
+17,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Rid-of-Ringworm-HS001.jpg,train,Tinea Ringworm Candidiasis,8b9713227bf886eecaefec8a93b6a434
+17,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_Rid-of-Ringworm-HS001.jpg,val,Tinea Ringworm Candidiasis,8b9713227bf886eecaefec8a93b6a434
+18,data/Split_smol/train/Atopic Dermatitis/1_41.jpg,train,Atopic Dermatitis,94fc9a1bacf792673f43c3fdbfecf2b5
+18,data/Split_smol/val/Atopic Dermatitis/1_41.jpg,val,Atopic Dermatitis,94fc9a1bacf792673f43c3fdbfecf2b5
+19,data/Split_smol/train/Atopic Dermatitis/1_16.jpg,train,Atopic Dermatitis,989acfbd9b54552537c518a24079ef92
+19,data/Split_smol/val/Atopic Dermatitis/1_16.jpg,val,Atopic Dermatitis,989acfbd9b54552537c518a24079ef92
+20,data/Split_smol/train/Atopic Dermatitis/1_18.jpg,train,Atopic Dermatitis,9b8b0dc739fc30cde04ffcb94caa7aee
+20,data/Split_smol/val/Atopic Dermatitis/1_18.jpg,val,Atopic Dermatitis,9b8b0dc739fc30cde04ffcb94caa7aee
+21,data/Split_smol/train/Atopic Dermatitis/1_42.jpg,train,Atopic Dermatitis,a06345b02935b57ff947807b3edb36cb
+21,data/Split_smol/val/Atopic Dermatitis/1_42.jpg,val,Atopic Dermatitis,a06345b02935b57ff947807b3edb36cb
+22,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_dermatomycosis-corporis-3.jpg,train,Tinea Ringworm Candidiasis,a646d9bb544ed7194245d4d99fdcc854
+22,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_dermatomycosis-corporis-3.jpg,val,Tinea Ringworm Candidiasis,a646d9bb544ed7194245d4d99fdcc854
+23,data/Split_smol/train/Atopic Dermatitis/1_43.jpg,train,Atopic Dermatitis,b5be87d334222d2ef6885725b07e784f
+23,data/Split_smol/val/Atopic Dermatitis/1_43.jpg,val,Atopic Dermatitis,b5be87d334222d2ef6885725b07e784f
+24,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_pha-259018.jpg,train,Tinea Ringworm Candidiasis,b7c11f89139973e0107246d1689c4e71
+24,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_pha-259018.jpg,val,Tinea Ringworm Candidiasis,b7c11f89139973e0107246d1689c4e71
+25,data/Split_smol/train/Atopic Dermatitis/1_19.jpg,train,Atopic Dermatitis,b895d9767884ca3f230d49a2eb674324
+25,data/Split_smol/val/Atopic Dermatitis/1_19.jpg,val,Atopic Dermatitis,b895d9767884ca3f230d49a2eb674324
+26,data/Split_smol/train/Atopic Dermatitis/1_30.jpg,train,Atopic Dermatitis,c6eafa63bd4522a98f6d976120bb385d
+26,data/Split_smol/val/Atopic Dermatitis/1_30.jpg,val,Atopic Dermatitis,c6eafa63bd4522a98f6d976120bb385d
+27,data/Split_smol/train/Atopic Dermatitis/1_26.jpg,train,Atopic Dermatitis,c83bcd23901d3ae6b3f77695346cd501
+27,data/Split_smol/val/Atopic Dermatitis/1_26.jpg,val,Atopic Dermatitis,c83bcd23901d3ae6b3f77695346cd501
+28,data/Split_smol/train/Atopic Dermatitis/1_23.jpg,train,Atopic Dermatitis,cc4d853b5d76c422712e2a21bbb419f4
+28,data/Split_smol/val/Atopic Dermatitis/1_23.jpg,val,Atopic Dermatitis,cc4d853b5d76c422712e2a21bbb419f4
+29,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Daad-khujli-kya-hai-or-daad-ka-treatment-ilaj-in-Hindi.jpg,train,Tinea Ringworm Candidiasis,ce5b1e1c813e05ac46b3f8b6ca5824f9
+29,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_Daad-khujli-kya-hai-or-daad-ka-treatment-ilaj-in-Hindi.jpg,val,Tinea Ringworm Candidiasis,ce5b1e1c813e05ac46b3f8b6ca5824f9
+30,data/Split_smol/train/Atopic Dermatitis/1_17.jpg,train,Atopic Dermatitis,da23075497033c33918824f8c7bc1587
+30,data/Split_smol/val/Atopic Dermatitis/1_17.jpg,val,Atopic Dermatitis,da23075497033c33918824f8c7bc1587
+31,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_natural-treatment-Daad-khaj-khujli-ringworm-home-treatment-home-remedies-fungal-infection-treatment-symptom-pictures-diagnosis-hindi-gimtrend.blogspot.com.jpeg,train,Tinea Ringworm Candidiasis,dd55362d3aa458c8e21135e99b10db49
+31,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_natural-treatment-Daad-khaj-khujli-ringworm-home-treatment-home-remedies-fungal-infection-treatment-symptom-pictures-diagnosis-hindi-gimtrend.blogspot.com.jpeg,val,Tinea Ringworm Candidiasis,dd55362d3aa458c8e21135e99b10db49
+32,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Cv-1.png,train,Tinea Ringworm Candidiasis,eb50a4bf30e5d82b84cb7f67e6348bed
+32,data/Split_smol/val/Tinea Ringworm Candidiasis/aug_0_Cv-1.png,val,Tinea Ringworm Candidiasis,eb50a4bf30e5d82b84cb7f67e6348bed
+33,data/Split_smol/train/Atopic Dermatitis/1_39.jpg,train,Atopic Dermatitis,f522cc46ea5f8f668045d20ae0936528
+33,data/Split_smol/val/Atopic Dermatitis/1_39.jpg,val,Atopic Dermatitis,f522cc46ea5f8f668045d20ae0936528

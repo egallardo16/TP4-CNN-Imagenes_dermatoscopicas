@@ -1,0 +1,24 @@
+# Dataset
+data/
+
+# Modelos entrenados
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

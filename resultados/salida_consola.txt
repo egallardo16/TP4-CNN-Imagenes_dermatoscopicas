@@ -1,0 +1,48 @@
+Captura activa: figuras -> resultados/figuras | consola -> resultados/salida_consola.txt
+Dispositivo: cuda | torch 2.14.1+cu130
+878 imágenes, 9 clases
+Carga de imágenes: 10s | tensor (878, 3, 64, 64) uint8
+Resoluciones más frecuentes:
+Fracción de cada clase por resolución:
+Grupos de imágenes idénticas: 34 (de los cuales 33 están repetidos entre train y val)
+Por clase: {'Atopic Dermatitis': 22, 'Tinea Ringworm Candidiasis': 12}
+Conflictos de etiqueta (misma imagen con clases distintas): 0
+Pares con hash perceptual casi igual (<=8 bits de 256): 34 | de ellos NO idénticos por MD5: 0
+Imágenes totales: 878 -> sin duplicados: 844 (se eliminaron 34)
+train 506 | val 169 | test 169
+                            train  val  test
+clase                                       
+Actinic keratosis              60   20    20
+Atopic Dermatitis              48   16    16
+Benign keratosis               60   20    20
+Dermatofibroma                 60   20    20
+Melanocytic nevus              60   20    20
+Melanoma                       60   20    20
+Squamous cell carcinoma        60   20    20
+Tinea Ringworm Candidiasis     38   13    13
+Vascular lesion                60   20    20
+mean/std por canal (64px, solo train): [0.743 0.572 0.565] [0.162 0.164 0.186]
+Parámetros CNN base (64px): 549273 | MLP (64px): 6358793 | campo receptivo CNN base: 18 px
+Total de parámetros: 549273
+mejor época 11 | val_acc 0.663 | train_acc 0.794 | 0.15 s/época | total 11s
+Referencia: azar = 0.111 | error estándar binomial de un accuracy ~0.5 con 169 imágenes de val = 0.038
+Mejor arquitectura (val): 4 bloques | mejor augmentation (val): ninguna
+Config final: {'model': 'cnn', 'size': 64, 'n_blocks': 4, 'filters': 16, 'kernel': 3, 'dropout': 0.2, 'lr': 0.003, 'aug': 'ninguna'}
+Config final en validación: val_acc 0.649 ± 0.010 | brecha 0.201 | mejor época 18.7 | 2s por entrenamiento
+Error estándar binomial del test (169 imágenes): ±0.037 | azar: 0.111
+                            precision    recall  f1-score   support
+
+         Actinic keratosis       0.50      0.30      0.38        20
+         Atopic Dermatitis       0.83      0.94      0.88        16
+          Benign keratosis       0.81      0.85      0.83        20
+            Dermatofibroma       0.41      0.55      0.47        20
+         Melanocytic nevus       0.60      0.45      0.51        20
+                  Melanoma       0.50      0.55      0.52        20
+   Squamous cell carcinoma       0.32      0.50      0.39        20
+Tinea Ringworm Candidiasis       0.80      0.31      0.44        13
+           Vascular lesion       0.94      0.85      0.89        20
+
+                  accuracy                           0.59       169
+                 macro avg       0.64      0.59      0.59       169
+              weighted avg       0.62      0.59      0.59       169
+

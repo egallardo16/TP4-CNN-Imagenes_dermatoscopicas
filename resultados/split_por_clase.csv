@@ -1,0 +1,10 @@
+﻿clase,train,val,test
+Actinic keratosis,60,20,20
+Atopic Dermatitis,48,16,16
+Benign keratosis,60,20,20
+Dermatofibroma,60,20,20
+Melanocytic nevus,60,20,20
+Melanoma,60,20,20
+Squamous cell carcinoma,60,20,20
+Tinea Ringworm Candidiasis,38,13,13
+Vascular lesion,60,20,20

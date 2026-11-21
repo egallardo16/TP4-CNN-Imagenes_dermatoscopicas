@@ -1,0 +1,13 @@
+﻿n,archivo,titulo
+1,fig_01_relacion_de_aspecto_ancho_alto_se_redimensiona_a_cuadrado.png,Relación de aspecto (ancho/alto) - se redimensiona a cuadrado
+2,fig_02_color_medio_rgb_por_clase.png,Color medio (RGB) por clase
+3,fig_03_sin_titulo.png,
+4,fig_04_original.png,original
+5,fig_05_chequeo_de_la_cnn_base_1_semilla.png,Chequeo de la CNN base (1 semilla)
+6,fig_06_mlp_vs_cnn_semilla_0.png,MLP vs CNN (semilla 0)
+7,fig_07_un_factor_a_la_vez_respecto_de_la_cnn_base.png,Un factor a la vez respecto de la CNN base
+8,fig_08_efecto_de_la_data_augmentation_semilla_0.png,Efecto de la data augmentation (semilla 0)
+9,fig_09_matriz_de_confusion_cnn_final_test_semilla_0.png,"Matriz de confusión - CNN final (test, semilla 0)"
+10,fig_10_filtros_de_la_primera_convolucion_kernel_de_3x3_3_canales_rg.png,"Filtros de la primera convolución (kernel de 3x3, 3 canales RGB)"
+11,fig_11_mapas_de_activacion_despues_de_relu_primeros_8_canales.png,Mapas de activación (después de ReLU): primeros 8 canales
+12,fig_12_primeras_10_imagenes_de_validacion_mal_clasificadas.png,Primeras 10 imágenes de validación mal clasificadas

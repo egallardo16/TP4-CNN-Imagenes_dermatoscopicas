@@ -1,0 +1,78 @@
+{
+  "fecha": "2026-11-21T08:30:56",
+  "dispositivo": "cuda",
+  "gpu": "Tesla T4",
+  "torch": "2.14.1+cu130",
+  "minutos_desde_la_celda_de_captura": 4.3,
+  "constantes": {
+    "DATA_DIR": "data/Split_smol",
+    "SIZES": [
+      32,
+      64,
+      96
+    ],
+    "SEEDS": [
+      0,
+      1,
+      2
+    ],
+    "MAX_EPOCHS": 60,
+    "PATIENCE": 10,
+    "BATCH": 32,
+    "AUG_COPIES": 2,
+    "SEED_SPLIT": 42,
+    "SEEDS_FINAL": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "BASE": {
+    "model": "cnn",
+    "size": 64,
+    "n_blocks": 3,
+    "filters": 16,
+    "kernel": 3,
+    "dropout": 0.2,
+    "lr": 0.003,
+    "aug": "ninguna"
+  },
+  "mejor_arquitectura_val": "4 bloques",
+  "mejor_augmentation_val": "ninguna",
+  "FINAL_CFG": {
+    "model": "cnn",
+    "size": 64,
+    "n_blocks": 4,
+    "filters": 16,
+    "kernel": 3,
+    "dropout": 0.2,
+    "lr": 0.003,
+    "aug": "ninguna"
+  },
+  "FINAL_OVERRIDE": null,
+  "imagenes_totales": 878,
+  "sin_duplicados": 844,
+  "tamanos_split": {
+    "train": 506,
+    "val": 169,
+    "test": 169
+  },
+  "duplicados": {
+    "grupos_exactos": 34,
+    "repetidos_entre_train_y_val": 33,
+    "casi_duplicados_no_exactos": 0
+  },
+  "clases": [
+    "Actinic keratosis",
+    "Atopic Dermatitis",
+    "Benign keratosis",
+    "Dermatofibroma",
+    "Melanocytic nevus",
+    "Melanoma",
+    "Squamous cell carcinoma",
+    "Tinea Ringworm Candidiasis",
+    "Vascular lesion"
+  ]
+}

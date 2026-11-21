@@ -1,0 +1,170 @@
+﻿indice_df,path,real,pred_cnn_final,pred_mlp_64px
+117,data/Split_smol/train/Atopic Dermatitis/1_60.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+873,data/Split_smol/val/Vascular lesion/ISIC_0029742.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+738,data/Split_smol/val/Benign keratosis/ISIC_0014603_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+443,data/Split_smol/train/Melanoma/ISIC_0000277.jpg,Melanoma,Melanoma,Melanoma
+617,data/Split_smol/train/Vascular lesion/ISIC_0024370.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+396,data/Split_smol/train/Melanocytic nevus/ISIC_0000131_downsampled.jpg,Melanocytic nevus,Melanoma,Melanoma
+432,data/Split_smol/train/Melanoma/ISIC_0000162.jpg,Melanoma,Melanoma,Squamous cell carcinoma
+383,data/Split_smol/train/Melanocytic nevus/ISIC_0000110_downsampled.jpg,Melanocytic nevus,Benign keratosis,Melanocytic nevus
+36,data/Split_smol/train/Actinic keratosis/ISIC_0028063.jpg,Actinic keratosis,Actinic keratosis,Actinic keratosis
+765,data/Split_smol/val/Dermatofibroma/ISIC_0026789.jpg,Dermatofibroma,Squamous cell carcinoma,Squamous cell carcinoma
+700,data/Split_smol/val/Actinic keratosis/ISIC_0026194.jpg,Actinic keratosis,Squamous cell carcinoma,Squamous cell carcinoma
+818,data/Split_smol/val/Squamous cell carcinoma/ISIC_0024450.jpg,Squamous cell carcinoma,Dermatofibroma,Squamous cell carcinoma
+653,data/Split_smol/train/Vascular lesion/ISIC_0027563.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+325,data/Split_smol/train/Melanocytic nevus/ISIC_0000008.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+162,data/Split_smol/train/Benign keratosis/ISIC_0014568_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+588,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Screenshot 2021-09-14 112208.png,Tinea Ringworm Candidiasis,Dermatofibroma,Vascular lesion
+580,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Ringworm-The-identifying-ring-shaped-rash-2486729.jpg,Tinea Ringworm Candidiasis,Tinea Ringworm Candidiasis,Atopic Dermatitis
+163,data/Split_smol/train/Benign keratosis/ISIC_0014569_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+84,data/Split_smol/train/Atopic Dermatitis/1_18.jpg,Atopic Dermatitis,Benign keratosis,Atopic Dermatitis
+199,data/Split_smol/train/Benign keratosis/ISIC_0014623_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+497,data/Split_smol/train/Squamous cell carcinoma/ISIC_0025182.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Squamous cell carcinoma
+446,data/Split_smol/train/Melanoma/ISIC_0000282.jpg,Melanoma,Melanoma,Melanoma
+471,data/Split_smol/train/Melanoma/ISIC_0000415_downsampled.jpg,Melanoma,Melanoma,Melanocytic nevus
+467,data/Split_smol/train/Melanoma/ISIC_0000395_downsampled.jpg,Melanoma,Squamous cell carcinoma,Dermatofibroma
+1,data/Split_smol/train/Actinic keratosis/ISIC_0024470.jpg,Actinic keratosis,Actinic keratosis,Atopic Dermatitis
+639,data/Split_smol/train/Vascular lesion/ISIC_0026092.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+335,data/Split_smol/train/Melanocytic nevus/ISIC_0000027_downsampled.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+681,data/Split_smol/train/Vascular lesion/ISIC_0031090.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+32,data/Split_smol/train/Actinic keratosis/ISIC_0027650.jpg,Actinic keratosis,Actinic keratosis,Vascular lesion
+161,data/Split_smol/train/Benign keratosis/ISIC_0014567_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+301,data/Split_smol/train/Dermatofibroma/ISIC_0031271.jpg,Dermatofibroma,Dermatofibroma,Dermatofibroma
+114,data/Split_smol/train/Atopic Dermatitis/1_57.jpg,Atopic Dermatitis,Atopic Dermatitis,Tinea Ringworm Candidiasis
+48,data/Split_smol/train/Actinic keratosis/ISIC_0029041.jpg,Actinic keratosis,Dermatofibroma,Squamous cell carcinoma
+689,data/Split_smol/train/Vascular lesion/ISIC_0031648.jpg,Vascular lesion,Melanocytic nevus,Melanoma
+172,data/Split_smol/train/Benign keratosis/ISIC_0014581_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+120,data/Split_smol/train/Atopic Dermatitis/1_64.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+715,data/Split_smol/val/Actinic keratosis/ISIC_0030143.jpg,Actinic keratosis,Squamous cell carcinoma,Vascular lesion
+498,data/Split_smol/train/Squamous cell carcinoma/ISIC_0025264.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Melanocytic nevus
+666,data/Split_smol/train/Vascular lesion/ISIC_0029439.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+611,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_pha-259018.jpg,Tinea Ringworm Candidiasis,Atopic Dermatitis,Tinea Ringworm Candidiasis
+267,data/Split_smol/train/Dermatofibroma/ISIC_0027188.jpg,Dermatofibroma,Dermatofibroma,Actinic keratosis
+308,data/Split_smol/train/Dermatofibroma/ISIC_0031799.jpg,Dermatofibroma,Actinic keratosis,Dermatofibroma
+128,data/Split_smol/train/Atopic Dermatitis/1_76.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+52,data/Split_smol/train/Actinic keratosis/ISIC_0029460.jpg,Actinic keratosis,Dermatofibroma,Dermatofibroma
+743,data/Split_smol/val/Benign keratosis/ISIC_0014619_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+858,data/Split_smol/val/Vascular lesion/ISIC_0024375.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+374,data/Split_smol/train/Melanocytic nevus/ISIC_0000099_downsampled.jpg,Melanocytic nevus,Melanoma,Melanocytic nevus
+451,data/Split_smol/train/Melanoma/ISIC_0000290.jpg,Melanoma,Melanoma,Atopic Dermatitis
+837,data/Split_smol/val/Squamous cell carcinoma/ISIC_0027795.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Actinic keratosis
+589,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Screenshot 2021-09-14 112538.png,Tinea Ringworm Candidiasis,Tinea Ringworm Candidiasis,Tinea Ringworm Candidiasis
+780,data/Split_smol/val/Melanocytic nevus/ISIC_0000016.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+669,data/Split_smol/train/Vascular lesion/ISIC_0029514.jpg,Vascular lesion,Dermatofibroma,Vascular lesion
+115,data/Split_smol/train/Atopic Dermatitis/1_58.jpg,Atopic Dermatitis,Atopic Dermatitis,Benign keratosis
+213,data/Split_smol/train/Benign keratosis/ISIC_0014639_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+320,data/Split_smol/train/Dermatofibroma/ISIC_0033554.jpg,Dermatofibroma,Dermatofibroma,Squamous cell carcinoma
+862,data/Split_smol/val/Vascular lesion/ISIC_0025628.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+222,data/Split_smol/train/Benign keratosis/ISIC_0014652_downsampled.jpg,Benign keratosis,Melanocytic nevus,Melanoma
+802,data/Split_smol/val/Melanoma/ISIC_0000313.jpg,Melanoma,Melanoma,Melanoma
+598,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Screenshot 2021-09-14 112945.png,Tinea Ringworm Candidiasis,Actinic keratosis,Actinic keratosis
+2,data/Split_smol/train/Actinic keratosis/ISIC_0024707.jpg,Actinic keratosis,Squamous cell carcinoma,Actinic keratosis
+198,data/Split_smol/train/Benign keratosis/ISIC_0014620_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+573,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Cv-1.png,Tinea Ringworm Candidiasis,Squamous cell carcinoma,Dermatofibroma
+831,data/Split_smol/val/Squamous cell carcinoma/ISIC_0026362.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Melanoma
+867,data/Split_smol/val/Vascular lesion/ISIC_0027983.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+261,data/Split_smol/train/Dermatofibroma/ISIC_0026629.jpg,Dermatofibroma,Actinic keratosis,Actinic keratosis
+576,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_F2.large.jpg,Tinea Ringworm Candidiasis,Melanoma,Atopic Dermatitis
+712,data/Split_smol/val/Actinic keratosis/ISIC_0029781.jpg,Actinic keratosis,Squamous cell carcinoma,Dermatofibroma
+596,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Screenshot 2021-09-14 112859.png,Tinea Ringworm Candidiasis,Tinea Ringworm Candidiasis,Actinic keratosis
+14,data/Split_smol/train/Actinic keratosis/ISIC_0026457.jpg,Actinic keratosis,Actinic keratosis,Actinic keratosis
+704,data/Split_smol/val/Actinic keratosis/ISIC_0026984.jpg,Actinic keratosis,Squamous cell carcinoma,Squamous cell carcinoma
+496,data/Split_smol/train/Squamous cell carcinoma/ISIC_0025178.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Dermatofibroma
+833,data/Split_smol/val/Squamous cell carcinoma/ISIC_0026981.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Squamous cell carcinoma
+239,data/Split_smol/train/Benign keratosis/ISIC_0015112_downsampled.jpg,Benign keratosis,Melanoma,Melanocytic nevus
+371,data/Split_smol/train/Melanocytic nevus/ISIC_0000095_downsampled.jpg,Melanocytic nevus,Melanocytic nevus,Melanoma
+216,data/Split_smol/train/Benign keratosis/ISIC_0014643_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+294,data/Split_smol/train/Dermatofibroma/ISIC_0030665.jpg,Dermatofibroma,Dermatofibroma,Dermatofibroma
+537,data/Split_smol/train/Squamous cell carcinoma/ISIC_0027529.jpg,Squamous cell carcinoma,Actinic keratosis,Squamous cell carcinoma
+474,data/Split_smol/train/Melanoma/ISIC_0000445_downsampled.jpg,Melanoma,Melanoma,Melanoma
+215,data/Split_smol/train/Benign keratosis/ISIC_0014642_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+404,data/Split_smol/train/Melanoma/ISIC_0000026_downsampled.jpg,Melanoma,Squamous cell carcinoma,Melanocytic nevus
+106,data/Split_smol/train/Atopic Dermatitis/1_46.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+390,data/Split_smol/train/Melanocytic nevus/ISIC_0000121_downsampled.jpg,Melanocytic nevus,Melanoma,Melanocytic nevus
+633,data/Split_smol/train/Vascular lesion/ISIC_0025606.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+650,data/Split_smol/train/Vascular lesion/ISIC_0027269.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+369,data/Split_smol/train/Melanocytic nevus/ISIC_0000092_downsampled.jpg,Melanocytic nevus,Squamous cell carcinoma,Melanocytic nevus
+192,data/Split_smol/train/Benign keratosis/ISIC_0014610_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+356,data/Split_smol/train/Melanocytic nevus/ISIC_0000068.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+82,data/Split_smol/train/Atopic Dermatitis/1_16.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+299,data/Split_smol/train/Dermatofibroma/ISIC_0031123.jpg,Dermatofibroma,Dermatofibroma,Dermatofibroma
+50,data/Split_smol/train/Actinic keratosis/ISIC_0029141.jpg,Actinic keratosis,Actinic keratosis,Actinic keratosis
+763,data/Split_smol/val/Dermatofibroma/ISIC_0026313.jpg,Dermatofibroma,Dermatofibroma,Vascular lesion
+494,data/Split_smol/train/Squamous cell carcinoma/ISIC_0025089.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Squamous cell carcinoma
+766,data/Split_smol/val/Dermatofibroma/ISIC_0027216.jpg,Dermatofibroma,Squamous cell carcinoma,Actinic keratosis
+810,data/Split_smol/val/Melanoma/ISIC_0009918.jpg,Melanoma,Melanocytic nevus,Benign keratosis
+685,data/Split_smol/train/Vascular lesion/ISIC_0031217.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+58,data/Split_smol/train/Actinic keratosis/ISIC_0029840.jpg,Actinic keratosis,Squamous cell carcinoma,Squamous cell carcinoma
+313,data/Split_smol/train/Dermatofibroma/ISIC_0032410.jpg,Dermatofibroma,Dermatofibroma,Squamous cell carcinoma
+444,data/Split_smol/train/Melanoma/ISIC_0000278.jpg,Melanoma,Melanoma,Tinea Ringworm Candidiasis
+391,data/Split_smol/train/Melanocytic nevus/ISIC_0000122_downsampled.jpg,Melanocytic nevus,Melanoma,Melanocytic nevus
+813,data/Split_smol/val/Melanoma/ISIC_0010231.jpg,Melanoma,Benign keratosis,Melanoma
+874,data/Split_smol/val/Vascular lesion/ISIC_0031103.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+821,data/Split_smol/val/Squamous cell carcinoma/ISIC_0024946.jpg,Squamous cell carcinoma,Dermatofibroma,Dermatofibroma
+21,data/Split_smol/train/Actinic keratosis/ISIC_0026729.jpg,Actinic keratosis,Dermatofibroma,Squamous cell carcinoma
+124,data/Split_smol/train/Atopic Dermatitis/1_69.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+518,data/Split_smol/train/Squamous cell carcinoma/ISIC_0026203.jpg,Squamous cell carcinoma,Melanoma,Dermatofibroma
+830,data/Split_smol/val/Squamous cell carcinoma/ISIC_0026327.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Squamous cell carcinoma
+783,data/Split_smol/val/Melanocytic nevus/ISIC_0000020_downsampled.jpg,Melanocytic nevus,Squamous cell carcinoma,Melanocytic nevus
+612,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_ringworm (9).jpg,Tinea Ringworm Candidiasis,Tinea Ringworm Candidiasis,Tinea Ringworm Candidiasis
+23,data/Split_smol/train/Actinic keratosis/ISIC_0026857.jpg,Actinic keratosis,Dermatofibroma,Vascular lesion
+214,data/Split_smol/train/Benign keratosis/ISIC_0014640_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+577,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_IJD-62-227-g006.jpg,Tinea Ringworm Candidiasis,Atopic Dermatitis,Atopic Dermatitis
+184,data/Split_smol/train/Benign keratosis/ISIC_0014598_downsampled.jpg,Benign keratosis,Benign keratosis,Actinic keratosis
+530,data/Split_smol/train/Squamous cell carcinoma/ISIC_0027047.jpg,Squamous cell carcinoma,Dermatofibroma,Tinea Ringworm Candidiasis
+258,data/Split_smol/train/Dermatofibroma/ISIC_0025980.jpg,Dermatofibroma,Benign keratosis,Actinic keratosis
+158,data/Split_smol/train/Atopic Dermatitis/2_7.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+560,data/Split_smol/train/Squamous cell carcinoma/ISIC_0029043.jpg,Squamous cell carcinoma,Dermatofibroma,Squamous cell carcinoma
+326,data/Split_smol/train/Melanocytic nevus/ISIC_0000009.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+801,data/Split_smol/val/Melanoma/ISIC_0000298.jpg,Melanoma,Melanoma,Benign keratosis
+419,data/Split_smol/train/Melanoma/ISIC_0000147_downsampled.jpg,Melanoma,Vascular lesion,Squamous cell carcinoma
+336,data/Split_smol/train/Melanocytic nevus/ISIC_0000028_downsampled.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+159,data/Split_smol/train/Atopic Dermatitis/2_8.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+412,data/Split_smol/train/Melanoma/ISIC_0000078_downsampled.jpg,Melanoma,Melanocytic nevus,Melanoma
+485,data/Split_smol/train/Squamous cell carcinoma/ISIC_0024517.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Vascular lesion
+193,data/Split_smol/train/Benign keratosis/ISIC_0014611_downsampled.jpg,Benign keratosis,Benign keratosis,Melanoma
+413,data/Split_smol/train/Melanoma/ISIC_0000139_downsampled.jpg,Melanoma,Squamous cell carcinoma,Melanocytic nevus
+774,data/Split_smol/val/Dermatofibroma/ISIC_0029967.jpg,Dermatofibroma,Squamous cell carcinoma,Squamous cell carcinoma
+660,data/Split_smol/train/Vascular lesion/ISIC_0028188.jpg,Vascular lesion,Squamous cell carcinoma,Vascular lesion
+287,data/Split_smol/train/Dermatofibroma/ISIC_0029973.jpg,Dermatofibroma,Dermatofibroma,Dermatofibroma
+620,data/Split_smol/train/Vascular lesion/ISIC_0024662.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+102,data/Split_smol/train/Atopic Dermatitis/1_42.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+556,data/Split_smol/train/Squamous cell carcinoma/ISIC_0028730.jpg,Squamous cell carcinoma,Dermatofibroma,Melanoma
+270,data/Split_smol/train/Dermatofibroma/ISIC_0027613.jpg,Dermatofibroma,Dermatofibroma,Squamous cell carcinoma
+806,data/Split_smol/val/Melanoma/ISIC_0001100_downsampled.jpg,Melanoma,Melanocytic nevus,Squamous cell carcinoma
+760,data/Split_smol/val/Dermatofibroma/ISIC_0024994.jpg,Dermatofibroma,Actinic keratosis,Actinic keratosis
+487,data/Split_smol/train/Squamous cell carcinoma/ISIC_0024539.jpg,Squamous cell carcinoma,Squamous cell carcinoma,Squamous cell carcinoma
+479,data/Split_smol/train/Melanoma/ISIC_0000487.jpg,Melanoma,Melanoma,Melanoma
+465,data/Split_smol/train/Melanoma/ISIC_0000390_downsampled.jpg,Melanoma,Melanoma,Melanocytic nevus
+587,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Screenshot 2021-09-14 112150.png,Tinea Ringworm Candidiasis,Dermatofibroma,Tinea Ringworm Candidiasis
+328,data/Split_smol/train/Melanocytic nevus/ISIC_0000011.jpg,Melanocytic nevus,Melanocytic nevus,Melanoma
+74,data/Split_smol/train/Actinic keratosis/ISIC_0031335.jpg,Actinic keratosis,Actinic keratosis,Actinic keratosis
+345,data/Split_smol/train/Melanocytic nevus/ISIC_0000051_downsampled.jpg,Melanocytic nevus,Melanoma,Melanocytic nevus
+373,data/Split_smol/train/Melanocytic nevus/ISIC_0000098_downsampled.jpg,Melanocytic nevus,Melanocytic nevus,Melanocytic nevus
+142,data/Split_smol/train/Atopic Dermatitis/2_13.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+507,data/Split_smol/train/Squamous cell carcinoma/ISIC_0025637.jpg,Squamous cell carcinoma,Dermatofibroma,Squamous cell carcinoma
+757,data/Split_smol/val/Benign keratosis/ISIC_0015260_downsampled.jpg,Benign keratosis,Melanoma,Melanocytic nevus
+382,data/Split_smol/train/Melanocytic nevus/ISIC_0000109_downsampled.jpg,Melanocytic nevus,Melanoma,Melanoma
+694,data/Split_smol/train/Vascular lesion/ISIC_0031950.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+613,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_ringworm-2.png,Tinea Ringworm Candidiasis,Dermatofibroma,Dermatofibroma
+93,data/Split_smol/train/Atopic Dermatitis/1_27.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+754,data/Split_smol/val/Benign keratosis/ISIC_0015170_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+177,data/Split_smol/train/Benign keratosis/ISIC_0014589_downsampled.jpg,Benign keratosis,Benign keratosis,Benign keratosis
+288,data/Split_smol/train/Dermatofibroma/ISIC_0030011.jpg,Dermatofibroma,Dermatofibroma,Dermatofibroma
+317,data/Split_smol/train/Dermatofibroma/ISIC_0033005.jpg,Dermatofibroma,Dermatofibroma,Squamous cell carcinoma
+306,data/Split_smol/train/Dermatofibroma/ISIC_0031429.jpg,Dermatofibroma,Squamous cell carcinoma,Melanoma
+61,data/Split_smol/train/Actinic keratosis/ISIC_0030133.jpg,Actinic keratosis,Squamous cell carcinoma,Squamous cell carcinoma
+401,data/Split_smol/train/Melanoma/ISIC_0000002.jpg,Melanoma,Melanocytic nevus,Melanocytic nevus
+156,data/Split_smol/train/Atopic Dermatitis/2_5.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+525,data/Split_smol/train/Squamous cell carcinoma/ISIC_0026645.jpg,Squamous cell carcinoma,Dermatofibroma,Melanoma
+584,data/Split_smol/train/Tinea Ringworm Candidiasis/aug_0_Screenshot 2021-09-14 112100.png,Tinea Ringworm Candidiasis,Atopic Dermatitis,Atopic Dermatitis
+688,data/Split_smol/train/Vascular lesion/ISIC_0031346.jpg,Vascular lesion,Vascular lesion,Actinic keratosis
+367,data/Split_smol/train/Melanocytic nevus/ISIC_0000089_downsampled.jpg,Melanocytic nevus,Melanoma,Melanocytic nevus
+621,data/Split_smol/train/Vascular lesion/ISIC_0024669.jpg,Vascular lesion,Vascular lesion,Vascular lesion
+489,data/Split_smol/train/Squamous cell carcinoma/ISIC_0024575.jpg,Squamous cell carcinoma,Dermatofibroma,Squamous cell carcinoma
+710,data/Split_smol/val/Actinic keratosis/ISIC_0029025.jpg,Actinic keratosis,Squamous cell carcinoma,Squamous cell carcinoma
+789,data/Split_smol/val/Melanocytic nevus/ISIC_0000057_downsampled.jpg,Melanocytic nevus,Squamous cell carcinoma,Melanocytic nevus
+152,data/Split_smol/train/Atopic Dermatitis/2_24.jpg,Atopic Dermatitis,Atopic Dermatitis,Atopic Dermatitis
+707,data/Split_smol/val/Actinic keratosis/ISIC_0027802.jpg,Actinic keratosis,Tinea Ringworm Candidiasis,Actinic keratosis
+46,data/Split_smol/train/Actinic keratosis/ISIC_0028941.jpg,Actinic keratosis,Squamous cell carcinoma,Squamous cell carcinoma
+260,data/Split_smol/train/Dermatofibroma/ISIC_0026471.jpg,Dermatofibroma,Actinic keratosis,Vascular lesion

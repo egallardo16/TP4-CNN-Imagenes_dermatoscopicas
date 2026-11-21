@@ -1,0 +1,10 @@
+﻿,pred:Actinic keratosis,pred:Atopic Dermatitis,pred:Benign keratosis,pred:Dermatofibroma,pred:Melanocytic nevus,pred:Melanoma,pred:Squamous cell carcinoma,pred:Tinea Ringworm Candidiasis,pred:Vascular lesion
+real:Actinic keratosis,6,1,0,2,0,0,8,0,3
+real:Atopic Dermatitis,0,14,1,0,0,0,0,1,0
+real:Benign keratosis,1,0,15,0,2,2,0,0,0
+real:Dermatofibroma,5,0,0,6,0,1,6,0,2
+real:Melanocytic nevus,0,0,0,0,16,4,0,0,0
+real:Melanoma,0,1,2,1,5,7,3,1,0
+real:Squamous cell carcinoma,1,0,0,3,1,3,10,1,1
+real:Tinea Ringworm Candidiasis,2,4,0,2,0,0,0,4,1
+real:Vascular lesion,1,0,0,0,0,1,0,0,18

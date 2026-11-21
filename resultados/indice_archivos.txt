@@ -1,0 +1,25 @@
+eda_metadata.csv: una fila por imagen: carpeta original, clase, tamaño, resolución, md5
+eda_clase_vs_carpeta.csv: imágenes por clase en train/ y val/ originales
+eda_resoluciones.csv: frecuencia de cada resolución
+eda_resolucion_por_clase.csv: fracción de cada clase por resolución
+eda_color_medio_por_clase.csv: color medio RGB por clase (imágenes a 32 px)
+eda_duplicados_exactos.csv: imágenes con MD5 idéntico, agrupadas
+eda_casi_duplicados.csv: pares con hash perceptual casi igual pero MD5 distinto
+split_por_clase.csv: imágenes por clase en train/val/test (después de quitar duplicados)
+normalizacion_train.csv: media y desvío por canal calculados solo con train
+trace_cnn_base.csv: capa por capa de la CNN base: forma de salida y parámetros
+analisis1_mlp_vs_cnn.csv: sección 5: MLP vs CNN (3 semillas)
+analisis2_arquitectura.csv: sección 6: un factor a la vez (3 semillas)
+analisis3_augmentation.csv: sección 7: niveles de augmentation (3 semillas)
+final_test_resumen.csv: sección 8: CNN final vs MLP en test (5 semillas)
+curvas_por_epoca.csv: loss y accuracy por época de cada variante (semilla 0; en s8 las 3 semillas)
+final_reporte_por_clase_cnn_final.csv: CNN final (semilla 0): precision/recall/F1 por clase en test
+final_matriz_confusion_cnn_final.csv: CNN final: matriz de confusión en test (filas = real)
+final_reporte_por_clase_mlp_64px.csv: MLP 64px (semilla 0): precision/recall/F1 por clase en test
+final_matriz_confusion_mlp_64px.csv: MLP 64px: matriz de confusión en test (filas = real)
+final_predicciones_test.csv: predicción de cada imagen de test (semilla 0)
+errores_validacion_cnn_final.csv: todas las imágenes de validación mal clasificadas por la CNN final (semilla 0)
+figuras_indice.csv: orden y título de las figuras de resultados/figuras/
+resumen_corrida.json: configuración, dispositivo, tamaños, duplicados y tiempo de la corrida
+figuras/: PNG de cada figura, en orden de ejecución (ver figuras_indice.csv)
+salida_consola.txt: todo lo que imprimieron las celdas desde la captura
